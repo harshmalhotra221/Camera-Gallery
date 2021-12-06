@@ -1,0 +1,7 @@
+- # Camera-Gallery
+- Basic Camera app to practice browser APIs
+- Media recorder and Canvas APIs used
+- IndexedDB used for storing m
+- Audio and Video recording options are there
+- Color Filters are implemented
+- Images/Videos can be downloaded on local system
